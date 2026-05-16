@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Tech team role</description>
+        <elevated_privilege>false</elevated_privilege>
+        <federated_id/>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_1914654_bp_tech.tech team</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>tech team</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-16 05:09:06</sys_created_on>
+        <sys_id>d424d40383780b10db5e5dc6feaad3b4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1914654_bp_tech.tech team</sys_name>
+        <sys_package display_value="BP Tech" source="x_1914654_bp_tech">d024d40383780b10db5e5dc6feaad375</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BP Tech">d024d40383780b10db5e5dc6feaad375</sys_scope>
+        <sys_update_name>sys_user_role_d424d40383780b10db5e5dc6feaad3b4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-16 05:09:06</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="BP Tech">d024d40383780b10db5e5dc6feaad375</application>
+        <file_path/>
+        <instance_id>0d0fe12ceb0edad056eafddacad0cd7b</instance_id>
+        <instance_name>dev290486</instance_name>
+        <name>sys_user_role_d424d40383780b10db5e5dc6feaad3b4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description>Tech team role</description><elevated_privilege>false</elevated_privilege><federated_id/><grantable>true</grantable><includes_roles/><name>x_1914654_bp_tech.tech team</name><scoped_admin>false</scoped_admin><suffix>tech team</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-05-16 05:09:06</sys_created_on><sys_id>d424d40383780b10db5e5dc6feaad3b4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1914654_bp_tech.tech team</sys_name><sys_package display_value="BP Tech" source="x_1914654_bp_tech">d024d40383780b10db5e5dc6feaad375</sys_package><sys_policy/><sys_scope display_value="BP Tech">d024d40383780b10db5e5dc6feaad375</sys_scope><sys_update_name>sys_user_role_d424d40383780b10db5e5dc6feaad3b4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-05-16 05:09:06</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>21401619</payload_hash>
+        <record_name>x_1914654_bp_tech.tech team</record_name>
+        <reverted_from/>
+        <source>d824d40383780b10db5e5dc6feaad3ad</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-16 05:09:06</sys_created_on>
+        <sys_id>5024d40383780b10db5e5dc6feaad3bf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19e2f302ce20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-16 05:09:06</sys_updated_on>
+        <type>Role</type>
+        <update_guid>1024d4032e780b104b20df9f13b75dbe</update_guid>
+        <update_guid_history>1024d4032e780b104b20df9f13b75dbe:21401619</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1914654_bp_tech.tech team">048514c383780b10db5e5dc6feaad35a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-16 05:15:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>44014deb6e0a491cb1eb35888c04e441</sys_id>
+        <sys_metadata>d424d40383780b10db5e5dc6feaad3b4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1914654_bp_tech.tech team</sys_name>
+        <sys_package display_value="BP Tech" source="x_1914654_bp_tech">d024d40383780b10db5e5dc6feaad375</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="BP Tech">d024d40383780b10db5e5dc6feaad375</sys_scope>
+        <sys_scope_delete display_value="">0ede8da3d56b4784ac6c981832b3fd10</sys_scope_delete>
+        <sys_update_name>sys_user_role_d424d40383780b10db5e5dc6feaad3b4</sys_update_name>
+        <sys_update_version display_value="sys_user_role_d424d40383780b10db5e5dc6feaad3b4">5024d40383780b10db5e5dc6feaad3bf</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-16 05:15:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
