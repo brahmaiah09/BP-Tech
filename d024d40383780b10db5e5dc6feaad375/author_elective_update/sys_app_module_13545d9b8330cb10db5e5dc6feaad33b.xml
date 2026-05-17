@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application/>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Device Details</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1914654_bp_tech_ai_devices</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles>x_1914654_bp_tech.device_management,x_1914654_bp_tech.dispatch_management,x_1914654_bp_tech.release_management,x_1914654_bp_tech.end_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-17 04:31:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>13545d9b8330cb10db5e5dc6feaad33b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Device Details</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="BP Tech" source="x_1914654_bp_tech">d024d40383780b10db5e5dc6feaad375</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BP Tech">d024d40383780b10db5e5dc6feaad375</sys_scope>
+        <sys_update_name>sys_app_module_13545d9b8330cb10db5e5dc6feaad33b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-17 04:31:23</sys_updated_on>
+        <timeline_page/>
+        <title>Device Details</title>
+        <uncancelable>false</uncancelable>
+        <view_name>Device Details</view_name>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="BP Tech">d024d40383780b10db5e5dc6feaad375</application>
+        <file_path/>
+        <instance_id>0d0fe12ceb0edad056eafddacad0cd7b</instance_id>
+        <instance_name>dev290486</instance_name>
+        <name>sys_app_module_13545d9b8330cb10db5e5dc6feaad33b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application/><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Device Details</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1914654_bp_tech_ai_devices</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles>x_1914654_bp_tech.device_management,x_1914654_bp_tech.dispatch_management,x_1914654_bp_tech.release_management,x_1914654_bp_tech.end_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-05-17 04:31:23</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>13545d9b8330cb10db5e5dc6feaad33b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Device Details</sys_name><sys_overrides/><sys_package display_value="BP Tech" source="x_1914654_bp_tech">d024d40383780b10db5e5dc6feaad375</sys_package><sys_policy/><sys_scope display_value="BP Tech">d024d40383780b10db5e5dc6feaad375</sys_scope><sys_update_name>sys_app_module_13545d9b8330cb10db5e5dc6feaad33b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-05-17 04:31:23</sys_updated_on><timeline_page/><title>Device Details</title><uncancelable>false</uncancelable><view_name>Device Details</view_name><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1764093855</payload_hash>
+        <record_name>Device Details</record_name>
+        <reverted_from/>
+        <source>2522e04f83b80b10db5e5dc6feaad3c9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-17 04:35:57</sys_created_on>
+        <sys_id>2426599f8330cb10db5e5dc6feaad364</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19e34382e8c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-17 04:35:57</sys_updated_on>
+        <type>Module</type>
+        <update_guid>e115151fea30cb1005ca20e72eb61e6b</update_guid>
+        <update_guid_history>e115151fea30cb1005ca20e72eb61e6b:-1192592048,e115151fea30cb1005ca20e72eb61e6b:-1192592048</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Device Details">ebe795938370cb10db5e5dc6feaad37e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-17 04:43:48</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>14901876444d4b1c83676dcc5fd82cc4</sys_id>
+        <sys_metadata>13545d9b8330cb10db5e5dc6feaad33b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Device Details</sys_name>
+        <sys_package display_value="BP Tech" source="x_1914654_bp_tech">d024d40383780b10db5e5dc6feaad375</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="BP Tech">d024d40383780b10db5e5dc6feaad375</sys_scope>
+        <sys_scope_delete display_value="">0ede8da3d56b4784ac6c981832b3fd10</sys_scope_delete>
+        <sys_update_name>sys_app_module_13545d9b8330cb10db5e5dc6feaad33b</sys_update_name>
+        <sys_update_version display_value="sys_app_module_13545d9b8330cb10db5e5dc6feaad33b">2426599f8330cb10db5e5dc6feaad364</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-17 04:43:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

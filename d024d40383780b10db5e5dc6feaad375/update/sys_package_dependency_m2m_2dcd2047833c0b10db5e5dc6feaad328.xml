@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Configuration Management (CMDB)" source="com.snc.cmdb">57bc6e8218b232108bb255f46a373ace</dependency>
+        <min_version>1.1</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-16 07:01:08</sys_created_on>
+        <sys_id>2dcd2047833c0b10db5e5dc6feaad328</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="BP Tech" source="x_1914654_bp_tech">d024d40383780b10db5e5dc6feaad375</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-16 07:01:08</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>
